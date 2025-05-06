@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Bruno.
 
-## Full-Stack Developer | 18+ Years Experience | Freelancer
+## Full-Stack Developer | 20+ Years Experience | Freelancer
 
-I'm a seasoned full-stack developer with **18+ years of experience** specializing in building robust, scalable applications. As a freelancer, I deliver end-to-end solutions across various industries, combining technical expertise with practical business understanding.
+I'm a seasoned full-stack developer with **20+ years of experience** specializing in building robust, scalable applications. As a freelancer, I deliver end-to-end solutions across various industries, combining technical expertise with practical business understanding.
 
 ## 🏢 Industry Experience
 
