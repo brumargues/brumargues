@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bruno.
+# 👋 Hi, I'm a Verified Human.
 
 ## Full-Stack Developer | 20+ Years Experience | Freelancer
 
